@@ -1,7 +1,8 @@
 This is my second frontend project, using for apply an internship job in the future !!! 
 
 Below is a brief introduction about it : 
-
+List Lib and framework : 
+Axios, https://reqres.in/ (api) , bootstrap, lodash , papaparse , toastify, paginate , ... 
 1.Home page : 
 
 ![Không có tiêu đề](https://github.com/eddyviettc/ForInternship/assets/34963944/66e4307f-4ced-44b4-84a7-ab4cf6b1cb64)
